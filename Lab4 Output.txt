@@ -1,0 +1,45 @@
+Press Any Button to start Playlist
+a
+"ALL I WANT - FROM ""HIGH SCHOOL MUSICAL: THE MUSICAL: THE SERIES""" is now playing
+Press Any Button to play next song press E to exit
+a
+"ALONE is now playing
+Press Any Button to play next song press E to exit
+a
+"BAD GIRLS is now playing
+Press Any Button to play next song press E to exit
+a
+"DJ NO PARE (FEAT. ZION is now playing
+Press Any Button to play next song press E to exit
+a
+"FUCK is now playing
+Press Any Button to play next song press E to exit
+a
+"I DO IT (FT. BIG SEAN is now playing
+Press Any Button to play next song press E to exit
+d
+"LIFE IS GOOD (FEAT. DRAKE is now playing
+Press Any Button to play next song press E to exit
+f
+"LOSE YOURSELF - FROM ""8 MILE"" SOUNDTRACK" is now playing
+Press Any Button to play next song press E to exit
+r
+"NUMBERS (FEAT. RODDY RICCH is now playing
+Press Any Button to play next song press E to exit
+d
+"TAKI TAKI (FEAT. SELENA GOMEZ is now playing
+Press Any Button to play next song press E to exit
+h
+Your most recent song:1. "TAKI TAKI (FEAT. SELENA GOMEZ
+2. "NUMBERS (FEAT. RODDY RICCH
+3. "LOSE YOURSELF - FROM ""8 MILE"" SOUNDTRACK"
+4. "LIFE IS GOOD (FEAT. DRAKE
+5. "I DO IT (FT. BIG SEAN
+6. "FUCK
+7. "DJ NO PARE (FEAT. ZION
+8. "BAD GIRLS
+9. "ALONE
+10. "ALL I WANT - FROM ""HIGH SCHOOL MUSICAL: THE MUSICAL: THE SERIES"""
+Press Any Button to play next song press E to exit
+E
+//END OF THE PROGRAM
